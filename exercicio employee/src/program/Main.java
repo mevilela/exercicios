@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Manager Salary: ");
         System.out.println(manager1.getName() + " - " + manager1.calculateSalary());
 
+
     }
 }
 

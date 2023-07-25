@@ -9,11 +9,11 @@ public class Programmer extends Employee{
         this.euroticket = euroticket;
     }
 
-    public double getExtraHours() {
+    public double getEuroticket() {
         return euroticket;
     }
 
-    public void setBonus(double bonus) {
+    public void setEuroticket(double euroticket) {
         this.euroticket = euroticket;
     }
 
