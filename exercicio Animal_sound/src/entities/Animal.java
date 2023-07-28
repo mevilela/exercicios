@@ -1,7 +1,5 @@
 package entities;
 
-public class Animal {
-    public void sound(){
-
-    }
+public abstract class Animal {
+    public abstract void sound();
 }
